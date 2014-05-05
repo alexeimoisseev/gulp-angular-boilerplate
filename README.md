@@ -1,1 +1,1 @@
-Yet another boilerplate for angular
+Yet another boilerplate for angular with bower and gulp.
